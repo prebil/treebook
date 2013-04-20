@@ -3,3 +3,11 @@ john:
   last_name: "Smith"
   email: "john@smith.com"
   profile_name: "johnsmith_1"
+  
+jim:
+  first_name: "Jim"
+  last_name: "Jones"
+  email: "jim@jones.com"
+  profile_name: "jimsmith_1"
+  
+ 
